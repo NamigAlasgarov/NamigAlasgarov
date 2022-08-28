@@ -13,6 +13,13 @@
 
 
 
+
+
+
+
+
+
+
 - 👋 Hi, I’m @NamigAlasgarov
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and Power BI
@@ -23,3 +30,9 @@
 NamigAlasgarov/NamigAlasgarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Namig's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
+
+
