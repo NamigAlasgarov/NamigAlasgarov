@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 .
 .
 .
-
-![](https://ghpvc/?username=NamigAlasgarov)
+![Visitor Count](https://profile-counter.ghpvc.me/{NamigAlasgarov}/count.svg)
 
 
 
