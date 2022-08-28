@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 .
 
 
-![Namig's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamigAlasgarov&theme=dark&show_icons=true)
+![Namig's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamigAlasgarov&theme=gruvbox&show_icons=true)
 
 
 
