@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 .
 .
 .
-[![visits](https://github-visit-counter.herokuapp.com/{NamigAlasgarov}/{repo}/visits.svg)](#)
+![visits](https://github-visit-counter.herokuapp.com/{NamigAlasgarov}/{repo}/visits.svg)
 
 
 .
