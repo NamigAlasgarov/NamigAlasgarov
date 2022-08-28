@@ -8,3 +8,4 @@
 NamigAlasgarov/NamigAlasgarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![a20d6da241d51d65841dda122bc79754](https://user-images.githubusercontent.com/106029572/187061231-c40706d1-76ab-499b-bfe0-47ef5f2180f2.jpg)
