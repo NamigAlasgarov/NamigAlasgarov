@@ -1,24 +1,6 @@
 .
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
 
 - 👋 Hi, I’m @NamigAlasgarov
 - 👀 I’m interested in Data Analysis
@@ -30,10 +12,10 @@
 NamigAlasgarov/NamigAlasgarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
+.
+.
+.
+.
 
 
 ![Namig's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamigAlasgarov&theme=dark&show_icons=true)
