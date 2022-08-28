@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 .
 .
 .
-![Visitor Count](https://profile-counter.glitch.me/{NamigAlasgarov}/count.svg)
-
+[![visits](https://github-visit-counter.herokuapp.com/{NamigAlasgarov}/{repo}/visits.svg)](#)
 
 
 .
