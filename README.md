@@ -5,7 +5,6 @@
 - 👋 Hi, I’m @NamigAlasgarov
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and Power BI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail: namiq.alasgarov1@gmail.com, phone: +994 508776657
 
 <!---
